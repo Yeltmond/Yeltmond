@@ -45,7 +45,7 @@ Soy un estudiante del último semestre de Ingeniería de Sistemas con experienci
 ### 🌐 Mis redes sociales
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+  <a href="#">https://www.instagram.com/yeltmond/<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
 </p>
 
