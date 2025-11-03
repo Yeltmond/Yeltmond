@@ -1,26 +1,25 @@
-<h1 align="center">👋 Hola, soy Yeltsing Mondragón</h1>
+# 👋 Hola, soy Yeltsing Mondragón
 
-<p align="center">
-  <strong>Estudiante de Ingeniería de Sistemas</strong><br>
-  Apasionado por la <em>tecnología</em>, la <em>fotografía</em> y el <em>automovilismo</em>.
-</p>
+<img src="img/Imagen%20de%20WhatsApp%202025-10-31%20a%20las%2014.08.51_525eb5b9.jpg" alt="Foto de Yeltsing Mondragón" width="180" align="right" style="border-radius:50%;">
 
-<p align="center">
-  <img src="img/Imagen de WhatsApp 2025-10-31 a las 14.08.51_525eb5b9.jpg" alt="Foto de Yeltsing Mondragón" width="180" style="border-radius: 50%; border: 3px solid #1a2a4c;">
-</p>
+**Estudiante de Ingeniería de Sistemas**  
+Apasionado por la **tecnología**, la **fotografía** y el **automovilismo**.  
 
 ---
 
-### 🧠 Sobre mí
+## 🧠 Sobre mí
+
 Soy un estudiante del último semestre de Ingeniería de Sistemas con experiencia en:
-- Proyectos de **reconocimiento facial** utilizando *Python, OpenCV y EigenFaces*  
-- Integración de **Arduino y ESP32** con sistemas backend  
-- Desarrollo de **interfaces web simples con HTML, CSS y JavaScript**  
-- Análisis de datos y simulación en *Arena y Python*
+
+- 🤖 Proyectos de **reconocimiento facial** utilizando *Python, OpenCV y EigenFaces*  
+- ⚡ Integración de **Arduino y ESP32** con sistemas backend  
+- 💻 Desarrollo de **interfaces web simples** con *HTML, CSS y JavaScript*  
+- 📊 Análisis de datos y simulación en *Arena y Python*  
 
 ---
 
-### 💻 Habilidades técnicas
+## 💻 Habilidades técnicas
+
 | Lenguajes y tecnologías | Nivel / Experiencia |
 |--------------------------|--------------------|
 | 🐍 Python (OpenCV, NumPy, Pandas) | ⭐⭐⭐☆☆ |
@@ -34,15 +33,16 @@ Soy un estudiante del último semestre de Ingeniería de Sistemas con experienci
 
 ---
 
-### 🏀 Mis hobbies
-- Basketball  
-- Ver series y películas  
-- Fotografía  
-- Automovilismo  
+## 🏀 Mis hobbies
+
+- 🏀 Basketball  
+- 🎬 Ver series y películas  
+- 📸 Fotografía  
+- 🏎️ Automovilismo  
 
 ---
 
-### 🌐 Mis redes sociales
+## 🌐 Mis redes sociales
 
 <p align="center">
   <a href="https://github.com/Yeltmond" target="_blank">
@@ -51,47 +51,20 @@ Soy un estudiante del último semestre de Ingeniería de Sistemas con experienci
   <a href="https://www.instagram.com/yeltmond/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/in/yeltmondragon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 📬 Contacto
-- 📧 **Email:** [yeltmondragon@gmail.com](mailto:yeltmondragon@gmail.com)  
-- 📱 **Teléfono:** +505 8351-9105  
+## 📬 Contacto
+
+📧 **Email:** [yeltmondragon@gmail.com](mailto:yeltmondragon@gmail.com)  
+📱 **Teléfono:** +505 8351-9105  
 
 ---
 
 <p align="center">
   © 2025 Yeltsing Mondragón — Todos los derechos reservados.
 </p>
-
-<style>
-  body {
-    font-family: "Poppins", sans-serif;
-    background: #f8f9fa;
-    color: #222;
-  }
-  h1 {
-    color: #0d6efd;
-  }
-  img {
-    border-radius: 50%;
-    object-fit: cover;
-  }
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  th, td {
-    border: 1px solid #ccc;
-    padding: 8px 12px;
-  }
-  th {
-    background-color: #0d6efd;
-    color: #fff;
-  }
-  td:first-child {
-    font-weight: 600;
-  }
-</style>
-
