@@ -9,12 +9,44 @@ Apasionado por la **tecnología**, la **fotografía** y el **automovilismo**.
 
 ## 🧠 Sobre mí
 
-Soy un estudiante del último semestre de Ingeniería de Sistemas con experiencia en:
+Soy un estudiante del último semestre de Ingeniería de Sistemas con experiencia en desarrollo full-stack y soluciones IoT. Me especializo en crear aplicaciones escalables, sistemas de monitoreo en tiempo real y plataformas empresariales de alto rendimiento.
 
-- 🤖 Proyectos de **reconocimiento facial** utilizando *Python, OpenCV y EigenFaces*  
-- ⚡ Integración de **Arduino y ESP32** con sistemas backend  
-- 💻 Desarrollo de **interfaces web simples** con *HTML, CSS y JavaScript*  
-- 📊 Análisis de datos y simulación en *Arena y Python*  
+### Áreas de enfoque:
+- 🚀 Desarrollo **full-stack** con TypeScript/JavaScript y Python  
+- 🌾 Sistemas **IoT** para agricultura inteligente y monitoreo ambiental  
+- 📊 Plataformas de **análisis y gestión de datos en tiempo real**  
+- 🎛️ Sistemas de **control y automatización industrial**  
+- 🤖 Proyectos de **reconocimiento facial** e **IA básica**  
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🏭 **Lineanica**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+
+Plataforma empresarial de gestión de líneas de producción y control de calidad. Sistema integral para análisis en tiempo real de procesos de manufactura con dashboards interactivos y reportería avanzada.
+
+**Stack:** TypeScript (92.1%) | JavaScript | CSS | Dockerizado
+
+### 🌾 **Monit Agro**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+
+Plataforma IoT completa para monitoreo agrícola e ambiental. Integración de sensores ESP32 para captura en tiempo real de temperatura, humedad, condiciones del suelo y datos ambientales. Análisis de datos con machine learning básico para optimización de cultivos.
+
+**Stack:** Python (43%) | JavaScript (41.9%) | C++ (8.6%) | HTML/CSS
+
+### 🔗 **Nexa (MKPLACENI)**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+Solución de conectividad e integración de sistemas empresariales. Facilita la comunicación bidireccional entre diferentes plataformas, dispositivos IoT y servicios en la nube. Middleware escalable para orquestación de datos.
+
+**Stack:** TypeScript (97.7%) | Python | Arquitectura modular
 
 ---
 
@@ -22,14 +54,18 @@ Soy un estudiante del último semestre de Ingeniería de Sistemas con experienci
 
 | Lenguajes y tecnologías | Nivel / Experiencia |
 |--------------------------|--------------------|
-| 🐍 Python (OpenCV, NumPy, Pandas) | ⭐⭐⭐☆☆ |
-| 💡 Arduino / ESP32 (C++) | ⭐⭐⭐⭐☆ |
-| 💻 HTML5 / CSS3 / JavaScript | ⭐⭐☆☆☆ |
-| 🤖 Machine Learning básico | ⭐⭐⭐☆☆ |
-| 🧩 Git / GitHub | ⭐☆☆☆☆ |
-| 🗃️ MySQL / SQLite | ⭐⭐⭐☆☆ |
-| 📊 Arena Simulation | ⭐⭐☆☆☆ |
-| ⚙️ Processing | ⭐⭐☆☆☆ |
+| 🔷 **TypeScript / JavaScript** | ⭐⭐⭐⭐⭐ |
+| 🐍 **Python** (OpenCV, NumPy, Pandas, Flask) | ⭐⭐⭐⭐☆ |
+| 💡 **Arduino / ESP32** (C++) | ⭐⭐⭐⭐☆ |
+| 💻 **HTML5 / CSS3** | ⭐⭐⭐⭐☆ |
+| 🤖 **Machine Learning** (básico a intermedio) | ⭐⭐⭐☆☆ |
+| 🧩 **Git / GitHub** | ⭐⭐⭐⭐☆ |
+| 🗃️ **MySQL / SQLite / MongoDB** | ⭐⭐⭐⭐☆ |
+| 📊 **Arena Simulation** | ⭐⭐☆☆☆ |
+| ⚙️ **Docker / Conteneurización** | ⭐⭐⭐☆☆ |
+| 🌐 **REST APIs y WebSockets** | ⭐⭐⭐⭐☆ |
+| 📡 **IoT y Conectividad** | ⭐⭐⭐⭐☆ |
+| 📊 **Análisis de Datos en Tiempo Real** | ⭐⭐⭐☆☆ |
 
 ---
 
