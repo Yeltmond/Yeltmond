@@ -1,6 +1,6 @@
 # 👋 Hola, soy Yeltsing Mondragón
 
-<img src="img/Imagen%20de%20WhatsApp%202025-10-31%20a%20las%2014.08.51_525eb5b9.jpg" alt="Foto de Yeltsing Mondragón" width="180" align="right" style="border-radius:50%;">
+<img src="img/484848509_2391219787878473_7571962223933263919_n.jpg" alt="Foto de Yeltsing Mondragón" width="180" align="right" style="border-radius:50%;">
 
 **Estudiante de Ingeniería de Sistemas**  
 Apasionado por la **tecnología**, la **fotografía** y el **automovilismo**.  
@@ -9,7 +9,7 @@ Apasionado por la **tecnología**, la **fotografía** y el **automovilismo**.
 
 ## 🧠 Sobre mí
 
-Soy un estudiante del último semestre de Ingeniería de Sistemas con experiencia en desarrollo full-stack, sistemas empresariales complejos y soluciones IoT. Me especializo en crear **aplicaciones escalables**, **sistemas de gestión integral**, **plataformas de comercio electrónico** y **soluciones de monitoreo en tiempo real**.
+Soy un estudiante del último semestre de Ingeniería de Sistemas con experiencia en desarrollo full-stack, sistemas empresariales complejos y soluciones IoT. Me especializo en crear **aplicaciones escalables** con arquitectura moderna y tecnologías de punta.
 
 ### Áreas de enfoque:
 - 🏭 Desarrollo de **sistemas de gestión logística empresarial** (B2E)  
@@ -29,10 +29,10 @@ Soy un estudiante del último semestre de Ingeniería de Sistemas con experienci
 ![JavaScript](https://img.shields.io/badge/JavaScript-3.5%25-F7DF1E?logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-3.4%25-1572B6?logo=css3&logoColor=white)
 
-**Sistema integral de gestión logística para agencia de envíos internacional.** Plataforma empresarial completa que automatiza el ciclo completo: recepción, almacenamiento, tracking automático, tránsito internacional, entrega en sucursales y facturación.
+**Sistema integral de gestión logística para agencia de envíos internacional.** Plataforma empresarial completa que automatiza el ciclo completo: recepción, almacenamiento, tracking automático, tránsito, entregas y facturación.
 
 #### 🎯 ¿Qué hace Lineanica?
-Lineanica es una solución B2E (Business-to-Employee) que transforma operaciones logísticas complejas en un sistema automatizado y escalable. Maneja múltiples sucursales, roles de usuario especializados, notificaciones en tiempo real y generación de reportes analíticos.
+Lineanica es una solución B2E (Business-to-Employee) que transforma operaciones logísticas complejas en un sistema automatizado y escalable. Maneja múltiples sucursales, roles de usuario especializados y proporciona visibilidad en tiempo real de toda la cadena logística.
 
 #### 📋 Características Clave
 
@@ -101,10 +101,10 @@ Lineanica es una solución B2E (Business-to-Employee) que transforma operaciones
 ![Python](https://img.shields.io/badge/Python-1.5%25-3776AB?logo=python&logoColor=white)
 ![Other](https://img.shields.io/badge/Other-0.8%25-gray)
 
-**Plataforma marketplace empresarial moderna para compra y venta de productos.** E-commerce completo con gestión de vendedores, catálogos dinámicos, carrito de compras, pagos integrados y panel administrativo avanzado.
+**Plataforma marketplace empresarial moderna para compra y venta de productos.** E-commerce completo con gestión de vendedores, catálogos dinámicos, carrito de compras, pagos integrados y panel administrativo.
 
 #### 🎯 ¿Qué hace MKPLACENI?
-MKPLACENI es una plataforma de comercio electrónico profesional que conecta compradores y vendedores. Proporciona una experiencia de compra intuitiva, integración de pagos segura y herramientas de gestión para vendedores.
+MKPLACENI es una plataforma de comercio electrónico profesional que conecta compradores y vendedores. Proporciona una experiencia de compra intuitiva, integración de pagos segura y herramientas de gestión potentes para vendedores.
 
 #### 📋 Características Clave
 
@@ -154,10 +154,10 @@ MKPLACENI es una plataforma de comercio electrónico profesional que conecta com
 ![CSS](https://img.shields.io/badge/CSS-6.4%25-1572B6?logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-0.1%25-E34C26?logo=html5&logoColor=white)
 
-**Plataforma IoT completa para monitoreo agrícola e ambiental en tiempo real.** Sistema end-to-end que integra sensores ESP32 distribuidos en campos agrícolas con backend de análisis y frontend de visualización interactiva.
+**Plataforma IoT completa para monitoreo agrícola e ambiental en tiempo real.** Sistema end-to-end que integra sensores ESP32 distribuidos en campos agrícolas con backend de análisis y frontend de visualización.
 
 #### 🎯 ¿Qué hace MONIT AGRO?
-Monit Agro democratiza el acceso a tecnología de monitoreo agrícola profesional. Recolecta datos ambientales en tiempo real desde sensores IoT, los procesa con algoritmos de análisis y los visualiza en dashboards interactivos para optimizar cultivos.
+Monit Agro democratiza el acceso a tecnología de monitoreo agrícola profesional. Recolecta datos ambientales en tiempo real desde sensores IoT, los procesa con algoritmos de análisis y los visualiza en dashboards interactivos.
 
 #### 📋 Características Clave
 
