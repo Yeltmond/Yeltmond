@@ -2,8 +2,8 @@
 
 <img src="img/484848509_2391219787878473_7571962223933263919_n.jpg" alt="Foto de Yeltsing Mondragón" width="180" align="right" style="border-radius:50%;">
 
-**Estudiante de Ingeniería de Sistemas**  
-Apasionado por la **tecnología**, la **fotografía** y el **automovilismo**.  
+**Egresado de Ingeniería de Sistemas**  
+Apasionado por la **tecnología**.  
 
 ---
 
@@ -237,15 +237,6 @@ Monit Agro democratiza el acceso a tecnología de monitoreo agrícola profesiona
 
 ---
 
-## 🏀 Mis hobbies
-
-- 🏀 Basketball  
-- 🎬 Ver series y películas  
-- 📸 Fotografía  
-- 🏎️ Automovilismo  
-
----
-
 ## 🌐 Mis redes sociales
 
 <p align="center">
@@ -254,9 +245,6 @@ Monit Agro democratiza el acceso a tecnología de monitoreo agrícola profesiona
   </a>
   <a href="https://www.instagram.com/yeltmond/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/yeltmondragon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
   </a>
 </p>
 
